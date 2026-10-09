@@ -1,0 +1,17 @@
+{
+  "name": "鈴鐺飛行隊",
+  "short_name": "鈴鐺飛行隊",
+  "description": "離線縱向射擊遊戲：打雲朵、接鈴鐺、守護天空",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#151b2e",
+  "theme_color": "#151b2e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
